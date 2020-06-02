@@ -1,6 +1,8 @@
 # hexapdf
 
-This is a port of the Ruby HexaPDF library to Crystal.
+This is the beginning of a port of the Ruby HexaPDF library to Crystal.
+
+Not much to see yet...
 
 
 ## Installation
@@ -10,7 +12,7 @@ Add this to your application's `shard.yml`:
 ~~~ yaml
 dependencies:
   hexapdf:
-    github: gettalong/hexapdf
+    github: gettalong/hexapdf.cr
 ~~~
 
 
